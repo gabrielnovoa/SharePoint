@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Title="Remove a Ribbon Button" Id="6b39e38d-5efa-418e-9203-945f5807eec0" Scope="Site">
+  <ElementManifests>
+    <ElementManifest Location="RemoveARibbonButton\Elements.xml" />
+  </ElementManifests>
+</Feature>

@@ -13,7 +13,7 @@
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
     <IsWebBootstrapper>true</IsWebBootstrapper>
-    <PublishUrl>ftps://waws-prod-am2-277.ftp.azurewebsites.windows.net/site/wwwroot/</PublishUrl>
+    <PublishUrl>ftps://waws-prod-am2-097.ftp.azurewebsites.windows.net/site/wwwroot/</PublishUrl>
     <Install>true</Install>
     <InstallFrom>Web</InstallFrom>
     <UpdateEnabled>true</UpdateEnabled>
