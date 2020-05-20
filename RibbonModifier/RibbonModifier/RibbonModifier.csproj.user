@@ -2,5 +2,6 @@
 <Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <SharePointSiteUrl>http://spfarm-sp:2013/</SharePointSiteUrl>
+    <PublishToFileSystemTargetLocation>C:\Users\gabn\Documents</PublishToFileSystemTargetLocation>
   </PropertyGroup>
 </Project>
