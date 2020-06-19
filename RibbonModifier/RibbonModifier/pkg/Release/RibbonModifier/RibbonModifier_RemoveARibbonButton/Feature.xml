@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Title="Remove Inheritance permission button from Ribbon" Description="Enabling this feature, the Ribbon button &quot;Delete Unique Permissions&quot; under Permissions Group will be hidden." Id="6b39e38d-5efa-418e-9203-945f5807eec0" Scope="Web">
+  <ElementManifests>
+    <ElementManifest Location="RemoveARibbonButton\Elements.xml" />
+  </ElementManifests>
+</Feature>
