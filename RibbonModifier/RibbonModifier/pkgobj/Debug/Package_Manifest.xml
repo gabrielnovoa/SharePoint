@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="1365b767-e15d-424b-b268-b05031d49a41" SharePointProductVersion="15.0">
-  <Assemblies>
-    <Assembly Location="RibbonModifier.dll" DeploymentTarget="GlobalAssemblyCache" />
-  </Assemblies>
-  <FeatureManifests>
-    <FeatureManifest Location="RibbonModifier_RemoveARibbonButton\Feature.xml" />
-  </FeatureManifests>
-</Solution>
