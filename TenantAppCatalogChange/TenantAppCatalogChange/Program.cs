@@ -26,7 +26,7 @@ namespace TenantAppCatalogChange
             settings.SetCorporateCatalog(appCatalogUrl);
             ctx.ExecuteQuery();
 
-            Console.WriteLine("\nYou changed yoru App Catalog to " + appCatalogUrl);
+            Console.WriteLine("\nYou changed your App Catalog to " + appCatalogUrl);
         }
     }
 }
